@@ -31,7 +31,14 @@ const quizData = [
         d: "none of the above",
         correct: "b",
     },
-
+    {   question:"what is javascript?",
+         a:"company",
+         b:"Brand",
+         c:"Programming language",
+        d:"None of the above",
+        correct:"c",
+    }
+    
 
 ];
 
