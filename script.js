@@ -1,11 +1,11 @@
 const quizData = [
     {
-        question: "Which language runs in a web browser?",
-        a: "Java",
-        b: "C",
-        c: "Python",
-        d: "javascript",
-        correct: "d",
+        question: "HTML FORM contain different types of input namely?",
+        a: "Checkboxes",
+        b: "Comma",
+        c: "Station",
+        d: "Excel sheet",
+        correct: "a",
     },
     {
         question: "What does CSS stand for?",
